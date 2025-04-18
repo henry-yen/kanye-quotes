@@ -40,10 +40,12 @@ kanye-quotes/
 ```
 
 ## 🔧 使用技術
--Python 3.12
--Tkinter GUI (Python 內建)
--Requests (發送 API 請求)
+
+- Python 3.12
+- Tkinter GUI (Python 內建)
+- Requests (發送 API 請求)
 
 ## ⚖️ 授權
+
 本專案採用 MIT License。
 © 2025 Henry Yen
